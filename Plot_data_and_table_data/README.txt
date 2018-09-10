@@ -1,0 +1,1 @@
+The files in the folder "Data" were used to make plots and to find the average times of programs.
